@@ -10,8 +10,8 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/drawthingsai/draw-things-community.git",
-      revision: "d473a2f148b3e7dc9b90d0b7cfccc5cda999eb66"
+      url: "https://github.com/hirokazu0916/draw-things-community.git",
+      revision: "dd981090c78d6adeb7c0db662a07df36997a20fd"
     ),
     .package(url: "https://github.com/apple/swift-argument-parser.git", from: "1.3.1"),
     .package(url: "https://github.com/apple/swift-docc-plugin", from: "1.4.5"),
